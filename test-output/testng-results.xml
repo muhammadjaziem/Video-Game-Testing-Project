@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1478" started-at="2021-12-24T17:56:41Z" finished-at="2021-12-24T17:56:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1478" started-at="2021-12-24T17:56:41Z" finished-at="2021-12-24T17:56:43Z">
+      <class name="videoGameTestingProject.Testing_API">
+        <test-method status="PASS" signature="firstTestGetAllVideoGames()[pri:1, instance:videoGameTestingProject.Testing_API@46d56d67]" name="firstTestGetAllVideoGames" duration-ms="1026" started-at="2021-12-25T01:56:41Z" finished-at="2021-12-25T01:56:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestGetAllVideoGames -->
+        <test-method status="PASS" signature="secondTestAddAllNewVideoGames()[pri:2, instance:videoGameTestingProject.Testing_API@46d56d67]" name="secondTestAddAllNewVideoGames" duration-ms="438" started-at="2021-12-25T01:56:42Z" finished-at="2021-12-25T01:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTestAddAllNewVideoGames -->
+      </class> <!-- videoGameTestingProject.Testing_API -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
